@@ -4,7 +4,7 @@
 - python3
 - pytest
 - git
-
+12345
 配置文件：iselenium.ini
 - 将配置文件复制到本地磁盘的[user.home]目录
 - 填入设备的chromwebdriver文件的全路径
