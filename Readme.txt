@@ -11,3 +11,5 @@
 
 运行命令：
 pytest -sv test/web_ut.py --alluredir ./allure-results
+
+test jenkins trigger
